@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 10px;
 }
 
 header {
     background-color:rgb(206, 97, 97);
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Tambahkan gaya untuk elemen lainnya sesuai kebutuhan */
